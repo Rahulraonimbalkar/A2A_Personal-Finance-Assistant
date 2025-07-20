@@ -41,19 +41,15 @@ The information provided by this AI tool is for educational and informational pu
 * Python 3.11+
 * Poetry for dependency management (`pip install poetry`)
 * A Google Cloud Platform project
-* Google Cloud CLI (follow [official instructions](https://cloud.google.com/sdk/docs/install))
+* Google Cloud CLI 
 
 ### Installation Steps
 
 ```bash
 # Clone the repository
-git clone [https://github.com/google/adk-samples.git](https://github.com/google/adk-samples.git)
-cd adk-samples/python/agents/financial_advisor
 
 # Install dependencies
 poetry install
-
-
 
 ## Customization
 
